@@ -5,23 +5,26 @@ Trường Đại học Sài Gòn, 273 Đ. An Đ. Vương, Phường 2, Quận 5,
 
 Giảng viên: Đỗ Như Tài
 
-Học sinh: Hồ Hữu Anh Tuấn 
+Sinh vien: Hồ Hữu Anh Tuấn, Lớp: DCT123C1
 
 Nội dung: Bài tập
 
 # BT
 ## Chương 1
+https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong1
 
 ## Chương 2
+https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong2
 
 ## Chương 3
+https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong3
 
 ## Chương 4
-
+https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong4
 
 
 # Tham Khảo
 
-# Thông tin cá nhân 
 
+# Tác giả
 Ho Huu Anh Tuan 
