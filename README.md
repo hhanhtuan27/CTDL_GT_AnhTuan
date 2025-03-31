@@ -1,7 +1,7 @@
 # Giới thiệu
 Trường Đại học Sài Gòn, 273 Đ. An Đ. Vương, Phường 2, Quận 5, TP.Hồ Chí Minh 
 
-[2025-01] Data Structures & Algorithms CLASS
+[2025-01] Data Structures & Algorithms CLASS 
 
 Giảng viên: Đỗ Như Tài
 
@@ -22,6 +22,13 @@ https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong3
 ## Chương 4
 https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong4
 
+## Chương 5
+https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong5
+
+## Chương 6
+https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Chuong6
+
+-----------------------------------------------------------------
 # Tham Khảo
 https://github.com/hhanhtuan27/CTDL_GT_AnhTuan/tree/main/Document
 
